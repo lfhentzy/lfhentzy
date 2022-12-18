@@ -24,7 +24,7 @@
 
 ##
 
-- 🔭 Hoje trabalho com Back-end
-- 🌱 Estudando PHP / Python
+- 🔭 Hoje trabalho como DevOps
+- 🌱 Estudando Python
 - 😄 Pronomes: ele/dele
 - ✉️ Contato: luizmhentzy@gmail.com
