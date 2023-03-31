@@ -1,4 +1,4 @@
-## Olá, eu sou o Luiz Fernando Hentzy
+## Olá, eu sou Luiz Fernando Hentzy
 
 <div align="center">
   <a href="https://github.com/lfhentzy">
@@ -24,7 +24,7 @@
 
 ##
 
-- 🔭 Hoje trabalho como DevOps
+- 🔭 Hoje trabalho com Desenvolvimento Web
 - 🌱 Estudando Python
 - 😄 Pronomes: ele/dele
 - ✉️ Contato: luizmhentzy@gmail.com
