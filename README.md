@@ -24,15 +24,3 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lfhentzy&show_icons=true&theme=tokyonight" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfhentzy&layout=compact&theme=tokyonight" />
 </div>
-
----
-
-## 🌱 Atualmente estudando
-- Java avançado (Spring, APIs, boas práticas)  
-- Integração de Flask + Vue  
-- Banco de dados relacionais e não relacionais  
-
-
----
-
-✨ Sempre aprendendo e construindo projetos práticos!
