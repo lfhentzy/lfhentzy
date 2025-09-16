@@ -1,4 +1,8 @@
+<div alingn="center">
 # ☕💻 Olá, eu sou o Luiz Fernando  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/luiz-fernando-hentzy/) 
+[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:luizmhentzy@gmail.com)  
+</div>
 
 💻 Desenvolvedor em evolução, apaixonado por **backend**.  
 🚀 Buscando me especializar em **Java** e expandir minha stack com tecnologias modernas.  
@@ -30,11 +34,6 @@
 - Integração de Flask + Vue  
 - Banco de dados relacionais e não relacionais  
 
----
-
-## 📫 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/luiz-fernando-hentzy/) 
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:luizmhentzy@gmail.com)  
 
 ---
 
