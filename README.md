@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Luiz Fernando  
+# ☕💻 Olá, eu sou o Luiz Fernando  
 
 💻 Desenvolvedor em evolução, apaixonado por **backend**.  
 🚀 Buscando me especializar em **Java** e expandir minha stack com tecnologias modernas.  
